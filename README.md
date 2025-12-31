@@ -13,9 +13,11 @@ x1 Arduino Uno
 
 x1 HC-SRO4 ultrasonic sensor
 
-x6 male to female jumper wires
+x6 male to male jumper wires
 
 x1 passive buzzer
+
+x1 breadboard
 
 # Instructions
 
