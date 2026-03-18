@@ -6,8 +6,9 @@ This is a basic arduino set up that uses an ultrasonic sensor in order to detect
 
 1. Make sure to have Arduino IDE installed
 
+```
 2. Install the HC-SR04 library for Arduino Uno
-
+```
 # Parts Needed
 x1 Arduino Uno
 
