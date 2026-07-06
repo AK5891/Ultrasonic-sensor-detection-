@@ -27,3 +27,6 @@ x1 breadboard
 ![alt text](https://github.com/AK5891/Ultrasonic-sensor-detection-/blob/main/demos/Ultrasonic%20SS%20diagram.png)
 
 2. Run ultrasonic_sensor.ino in Arduino IDE
+
+# Demo
+<img src="https://github.com/AK5891/Ultrasonic-sensor-detection-/blob/main/demos/Security_Sensor.gif" alt="Description" width="400">   
